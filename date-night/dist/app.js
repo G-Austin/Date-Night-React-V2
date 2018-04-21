@@ -87,6 +87,9 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/datenightusers"
 // API routes - list routes individually
 
 require('./routes/api/signin')(app);
+require('./routes/api/search')(app);
+require('./routes/api/wheelSearch')(app);
+require('./routes/api/searchMovie')(app);
 
 // Load React App
 // Serve HTML file for production

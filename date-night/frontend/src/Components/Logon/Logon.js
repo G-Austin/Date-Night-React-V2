@@ -274,9 +274,9 @@ class Logon extends Component {
                   We'll give you some out of the box ideas
                 </Slide>
               </Slider>
-            <p> Welcome to Date Night, the App that creates perfect dates for everyone.
+            <p className="info"> Welcome to Date Night, the App that creates perfect dates for everyone.
             </p>
-            <p>Sign Up or Log In to start your dating experience today!
+            <p className="info">Sign Up or Log In to start your dating experience today!
             </p>
           
           </div>
