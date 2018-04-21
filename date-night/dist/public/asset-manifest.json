@@ -1,6 +1,14 @@
 {
+<<<<<<< HEAD
   "main.css": "static/css/main.785fd9b1.css",
   "main.css.map": "static/css/main.785fd9b1.css.map",
   "main.js": "static/js/main.d3b7ac30.js",
   "main.js.map": "static/js/main.d3b7ac30.js.map"
+=======
+  "main.css": "static/css/main.8f505515.css",
+  "main.css.map": "static/css/main.8f505515.css.map",
+  "main.js": "static/js/main.d21a7ff8.js",
+  "main.js.map": "static/js/main.d21a7ff8.js.map",
+  "static\\media\\cjl-background.gif": "static/media/cjl-background.5c759f94.gif"
+>>>>>>> 22b2380e75340be1e68d9ca4aafe8da34286e5c1
 }
