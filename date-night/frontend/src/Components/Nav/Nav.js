@@ -1,6 +1,8 @@
 import React from "react";
 import "./Nav.css";
 import "../Logon/Logon.js"
+import HomePage from "../HomePage";
+import { getFromStorage, setInStorage } from "../../utils/storage";
 
 const Nav = props => (
 

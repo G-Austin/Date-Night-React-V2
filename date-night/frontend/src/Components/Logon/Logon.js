@@ -180,10 +180,11 @@ class Logon extends Component {
       });
   }
 
-    logout() {
+    logout () {
       this.setState({
         isLoading: true,
       });
+      console.log('im true')
         const obj = getFromStorage("Date_Night");
         if (obj && obj.token) {
           const { token } = obj;
@@ -287,6 +288,7 @@ class Logon extends Component {
     return (
       <div>
         <HomePage logout={this.logout}/>
+    
       </div>
     );
   }
